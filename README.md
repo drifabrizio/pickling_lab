@@ -8,7 +8,7 @@ This lab shows how to pickle a fitted model so that it may be used later. This r
     * Importing the data
     * Fitting a pipeline
     * Pickling the fitted pipeline
-    * Creating new data to test the model on    
+    * Creating new data to test the model on      
 * A file containing the pickled model
 * A Python file containing the new data
 * A Python file for testing the pickled model with the new data

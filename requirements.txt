@@ -2,3 +2,5 @@ pywin32
 sklearn
 notebook
 pandas
+Flask
+requests
